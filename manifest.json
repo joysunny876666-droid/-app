@@ -1,0 +1,21 @@
+{
+  "name": "英單大挑戰 - 專業單字檢測系統",
+  "short_name": "英單挑戰",
+  "description": "提供英單填空與選擇題測試，追蹤學習進度，查看200個精選單字。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
